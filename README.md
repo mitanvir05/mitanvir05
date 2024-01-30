@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitanvir05&show_icons=true&locale=en&layout=compact" alt="mitanvir05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitanvir05&show_icons=true&locale=en" alt="mitanvir05" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitanvir05&" alt="mitanvir05" /></p>
