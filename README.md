@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanvir05&label=Profile%20views&color=0e75b6&style=flat" alt="mitanvir05" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mitanvir05.github.io/new-portfolio](https://portfolio-tanvir.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-tanvir.vercel.app/](https://portfolio-tanvir.vercel.app/)
 
 - 💬 Ask me about **Hello there! 👋 I'm Md. Muhaimin Islam Tanvir, a Full Stack Software Developer with a knack for transforming complex ideas into user-friendly applications. 🚀 Based in Dhaka, Bangladesh, I'm equipped with a strong in Computer Science (graduated with a 3.86 CGPA), and proficient in JavaScript, ReactJS and Node.js. 💻 I believe in employing a relentless learning approach to staying ahead in this fast-paced tech world. I love delving into new technologies to design and build innovative digital solutions. With hands-on experience and in-depth academic knowledge, I successfully tackle web development challenges. I'm skilled with MongoDB, Firebase, Github, and UI tools such as Tailwindcss, DaisyUI, Bootstrap, and CSS. Not to mention, I have a good handle on C/C++ and Python. Fluent in English and Bangla, I believe effective communication to be a key aspect of my role. If you're in search of a developer who continually strives for improvement, let's connect!**
 
