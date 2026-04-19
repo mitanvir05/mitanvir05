@@ -42,8 +42,7 @@
 ## 📫 Contact Me
 
 - 📧 tanvir.cse05@gmail.com  
-- 💼 <a href="https://linkedin.com/in/muhaimin-tanvir">LinkedIn</a>  
-- 📘 <a href="https://fb.com/muhaimin.tanvir05">Facebook</a>  
+- 💼 <a href="https://linkedin.com/in/muhaimin-tanvir">LinkedIn</a> 
 
 ---
 
