@@ -28,7 +28,7 @@
   🗓️ Expected: **2026**
 
 - 🎓 **B.Sc. in Computer Science & Engineering (CSE)**  
-  📍 Green University of Bangladesh  
+  📍 Bangladesh University of Business and Technology 
   📊 CGPA: **3.86 / 4.00**
 
 ---
