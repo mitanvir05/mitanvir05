@@ -1,25 +1,71 @@
-![logo](https://github.com/mitanvir05/mitanvir05/blob/main/banner%20github.png?raw=true)
-<h1 align="center">Hi 👋, I'm Md. Muhaimin Islam Tanvir</h1>
-<h3 align="center">A passionate Software Engineer from Mirpur, Dhaka, Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanvir05&label=Profile%20views&color=0e75b6&style=flat" alt="mitanvir05" /> </p>
+<img src="https://github.com/mitanvir05/mitanvir05/blob/main/banner%20github.png?raw=true" />
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tanvir.vercel.app/](https://portfolio-tanvir.vercel.app/)
+<h1>Hi 👋, I'm Md. Muhaimin Islam Tanvir</h1>
 
-- 💬 Ask me about **Hello there! 👋 I'm Md. Muhaimin Islam Tanvir, a Full Stack Software Developer with a knack for transforming complex ideas into user-friendly applications. 🚀 Based in Dhaka, Bangladesh, I'm equipped with a strong in Computer Science (graduated with a 3.86 CGPA), and proficient in JavaScript, ReactJS,Next.js and Node.js. 💻 I believe in employing a relentless learning approach to staying ahead in this fast-paced tech world. I love delving into new technologies to design and build innovative digital solutions. With hands-on experience and in-depth academic knowledge, I successfully tackle web development challenges. I'm skilled with MongoDB, Firebase, Github, and UI tools such as Tailwindcss, DaisyUI, Bootstrap, and CSS. Not to mention, I have a good handle on C/C++ and Python. Fluent in English and Bangla, I believe effective communication to be a key aspect of my role. If you're in search of a developer who continually strives for improvement, let's connect!**
+<h3>💻 Software Engineer | Frontend Developer</h3>
 
-- 📫 How to reach me **tanvir.cse05@gmail.com**
+<p>📍 Mirpur, Dhaka, Bangladesh</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhaimin-tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhaimin-tanvir" height="30" width="40" /></a>
-<a href="https://fb.com/muhaimin.tanvir05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhaimin.tanvir05" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Frontend Developer focused on building scalable web applications  
+- ⚡ Skilled in **React, Next.js, Node.js**  
+- 🧠 Passionate about learning new technologies  
+- 🎯 Goal: Build impactful and user-friendly digital products  
+
+---
+
+## 🎓 Education
+
+- 🎓 **M.Sc. in Information Technology**  
+  📍 Institute of Information Technology (IIT), Jahangirnagar University  
+  🗓️ Expected: **2026**
+
+- 🎓 **B.Sc. in Computer Science & Engineering (CSE)**  
+  📍 Green University of Bangladesh  
+  📊 CGPA: **3.86 / 4.00**
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://portfolio-tanvir.vercel.app/
+
+---
+
+## 📫 Contact Me
+
+- 📧 tanvir.cse05@gmail.com  
+- 💼 <a href="https://linkedin.com/in/muhaimin-tanvir">LinkedIn</a>  
+- 📘 <a href="https://fb.com/muhaimin.tanvir05">Facebook</a>  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,firebase,tailwind,html,css,python,c,cpp,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitanvir05&show_icons=true&locale=en&layout=compact" alt="mitanvir05" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitanvir05&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I turn complex ideas into simple, clean, and user-friendly applications 🚀
