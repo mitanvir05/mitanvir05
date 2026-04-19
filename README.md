@@ -24,7 +24,7 @@
 ## 🎓 Education
 
 - 🎓 **M.Sc. in Information Technology**  
-  📍 Institute of Information Technology (IIT), Jahangirnagar University  
+  📍 IIT, Jahangirnagar University  
   🗓️ Expected: **2026**
 
 - 🎓 **B.Sc. in Computer Science & Engineering (CSE)**  
