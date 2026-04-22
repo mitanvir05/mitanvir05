@@ -35,7 +35,7 @@
 
 ## 🌐 Portfolio
 
-🔗 https://portfolio-tanvir.vercel.app/
+🔗 https://tanvir-dev.vercel.app
 
 ---
 
